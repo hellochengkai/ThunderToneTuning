@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ThunderToneTuning</string>
+    <string name="tone_ui">音调界面</string>
+    <string name="music_ui">音乐界面</string>
 </resources>
